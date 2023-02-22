@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "windener.md"
+        "windener.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
