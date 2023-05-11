@@ -12,7 +12,7 @@ let Revolutions = 1
 ```
 
 ## @showhint
-Now add ``||logic:If true then||`` block and nest it under
+Now add the ``||logic:If true then||`` block and nest it under the
 ``||basic:forever||`` loop
 ```blocks
 let Revolutions = 1
@@ -23,7 +23,7 @@ basic.forever(function () {
 )
 ```
 ## @showhint
-Now add the true condition ``||cakLandTouch:on tap at P0||`` it replaces the true text loop
+Now add the true condition ``||cakLandTouch:on tap at P0||``It replaces the true text loop
 ```blocks
 let Revolutions = 1
 basic.forever(function () {
