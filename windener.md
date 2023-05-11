@@ -4,7 +4,7 @@
 cakEnergy=github:climate-action-kits/pxt-climate-action-kit-energy
 ```
 ## @showhint
-Create a ``||Variables:Variable Revolutions||`` and nest 
+Create a ``||Variables:Variable Revolutions||`` and nest it 
 ``||Variables:set Revolutions to 0||`` 
 under ``||basic:on start||`` block
 ```blocks
